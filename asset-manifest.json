@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SEG3125-Project2-Step3/static/css/main.cb499706.css",
+    "main.js": "/SEG3125-Project2-Step3/static/js/main.b33e789d.js",
+    "static/media/hero-image.jpg": "/SEG3125-Project2-Step3/static/media/hero-image.ec6be0ac5553f63a2fac.jpg",
+    "static/media/instructor2.jpg": "/SEG3125-Project2-Step3/static/media/instructor2.1627e43f356c8de8adba.jpg",
+    "static/media/instructor1.jpg": "/SEG3125-Project2-Step3/static/media/instructor1.28b871c5df9cb8aa5ea8.jpg",
+    "index.html": "/SEG3125-Project2-Step3/index.html",
+    "main.cb499706.css.map": "/SEG3125-Project2-Step3/static/css/main.cb499706.css.map",
+    "main.b33e789d.js.map": "/SEG3125-Project2-Step3/static/js/main.b33e789d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb499706.css",
+    "static/js/main.b33e789d.js"
+  ]
+}
